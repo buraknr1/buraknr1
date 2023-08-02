@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I am currently interested in Object Detection, Segmentation, Image Processing, Web development and I am doing projects. As a hobby, I code desktop applications with tkinter and websites with Python-Flask.
+- 📫 How to reach me: burakbusiness42@gmail.com
+- Linkedin : <a href="https://www.linkedin.com/in/mustafa-burak-bayram/">Mustafa Burak Bayram</a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=buraknr1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<!--<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=buraknr1&theme=tokyonight ">-->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=buraknr1&show_icons=true&locale=en&layout=compact" alt="buraknr1"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=buraknr1&label=Profile%20views&color=0e75b6&style=flat" alt="buraknr1" /> </p>
+
